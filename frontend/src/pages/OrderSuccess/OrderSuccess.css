@@ -1,0 +1,33 @@
+.order-success {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.order-success h1 {
+  color: green;
+}
+
+.order-success p {
+  font-size: 18px;
+}
+
+.order-success img {
+  width: 200px;
+  height: auto;
+  margin: 20px 0;
+}
+
+.home-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.home-button:hover {
+  background-color: #0056b3;
+}
